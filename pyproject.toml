@@ -1,11 +1,11 @@
 [project]
 dynamic = ["dependencies"]
-name = "PyPiperTTS"
+name = "PyPiperTTS-win"
 version = "0.0.1"
 authors = [
   { name="broadfield-dev" },
 ]
-description = "Python wrapper for PiperTTS"
+description = "Python wrapper for PiperTTS - Windows"
 readme = "README.md"
 requires-python = ">=3.8"
 classifiers = [
@@ -17,5 +17,5 @@ classifiers = [
 dependencies = {file = ["requirements.txt"]}
 
 [project.urls]
-Homepage = "https://github.com/broadfield-dev/PyPiperTTS"
-Issues = "https://github.com/broadfield-dev/PyPiperTTS/issues"
+Homepage = "https://github.com/broadfield-dev/PyPiperTTS-win"
+Issues = "https://github.com/broadfield-dev/PyPiperTTS-win/issues"
